@@ -12,7 +12,7 @@ uploaded = files.upload()
 
 ### Sample Data Note
 
-We have provided two sample datasets of our CSA data where the variable names are the same as our original, however all the values are randomly generated. These files are called *sample_data_capstone.csv* and *sample_missing_reports.csv*. The data types in the sample sets match the original data types used. The original CSA data cannot be provided as it is IRB restricted. You can apply for access to the original data set or learn more at the [U.S. Department of Health & Human Services](https://www.acf.hhs.gov/cb/data-research/ncands).
+We have provided two sample datasets of our CSA data where the variable names are the same as our original, however all the values are randomly generated. These files are called *sample_csa_data.csv* and *sample_missing_reports.csv*. The data types in the sample sets match the original data types used. The original CSA data cannot be provided as it is IRB restricted. These sample files can be used in the notebook in place of *final_csa_all_y.csv* and *missing_reports.csv* respectively to have the notebook run as intended.You can apply for access to the original data set or learn more at the [U.S. Department of Health & Human Services](https://www.acf.hhs.gov/cb/data-research/ncands). Additionally, we have provided a full sample dataset called *sample_data_capstone.csv* which shows a final version of the dataframe we used in our analysis without needing to run the notebook.
 
 
 ## Dependencies
